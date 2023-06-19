@@ -1,0 +1,9 @@
+{
+    "hashes": {
+        "D:\\self_userd_stablediffusion\\stable-diffusion-webui-master\\models/lora\\A2.safetensors": {
+            "model": "8850f307e415cc0924c0b71cb3ac590e210f4ffc93454ceb88b7a1b4a221d791",
+            "legacy": "e58cc210",
+            "mtime": 1687102718.3673024
+        }
+    }
+}
